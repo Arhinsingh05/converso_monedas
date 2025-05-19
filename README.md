@@ -15,7 +15,7 @@ Este proyecto es una aplicación de consola en Java que permite convertir montos
 - Uso de la biblioteca Gson para el procesamiento del JSON.
 
 ## Requisitos
-- Java 11 o superior
+- Java 17 o superior
 - Gson
 - Conexión a Internet
 
