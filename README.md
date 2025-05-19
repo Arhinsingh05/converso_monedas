@@ -22,4 +22,4 @@ Este proyecto es una aplicación de consola en Java que permite convertir montos
 ## Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Arhinsingh05/converso_monedas.git
